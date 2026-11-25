@@ -1,0 +1,7 @@
+{
+  "name": "make-the-ai-judge-laugh-entry",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "license": "MIT"
+}
